@@ -121,5 +121,21 @@
         "Ma i carabinieri in macchina tengono un acquario? Altrimenti le sirene affogano poi.",
         "Chi beve tanto latte par-malat...ma in realtà sta bene!",
         "Il fotografo migliore tra gli orsi? l'orso Polaroid"
+    ], 
+    "itProverbs":[
+        "Tanto va lo stagista al largo, che ci rimette la produzione",
+        "Rosso di sera, nel rilascio si spera",
+        "Sopra la panca il server arranca, sotto la panca il server scalda. In ogni caso ci son bug",
+        "Al project manager non fare sapere, quanto tempo libero hai le sere.",
+        "Il troppo storpia, quindi rilascia a sprint",
+        "Non giudicare un software dal mock.",
+        "Se non ti fanno male le dita, hai rilasciato solo a metà",
+        "A buon intenditore, pochi commit",
+        "A progetto donato, non si guarda il codice (aka: se funziona, non toccare)",
+        "Chi va piano, sfora la deadline",
+        "l'AI frettolosa fece i progetti scemi",
+        "Ride bene, chi non ha produzione venerdì sera",
+        "Il PM perde il pelo ma non il task",
+        "Non è tutto oro ciò che copypasty, neanche chatGPT"
     ]
 }
